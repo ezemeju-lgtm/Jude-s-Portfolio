@@ -31,3 +31,6 @@ Performed data cleaning and wrangling with this dataset from HMRC with excel  wh
 # [Project 2: Data Analysis and Visualisation With Python](https://ezemeju-lgtm.github.io/GDP-Per-Capita-Countries/)
 
 This project leverages Python to conduct a comprehensive analysis of global financial trends, focusing specifically on GDP per capita as a key indicator of economic performance. By examining data from over 200 countries, the project explores how wealth is distributed globally, identifies patterns across regions, and investigates the relationships between different economic metrics and country characteristics.
+
+# [Project 3: Data Analysis and Visualisation With Power BI](https://github.com/ezemeju-lgtm/Power-BI)
+This project analyses the performance of customer call agents within a specific team. The primary objective is to measure efficiency, identify performance patterns, and generate actionable insights to improve daily operations, enhance customer experience, and optimise resource allocation
